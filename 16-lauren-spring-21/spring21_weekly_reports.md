@@ -1,4 +1,17 @@
 # Weekly Reports
+## Week 3 (2/8)
+
+### Assigned Tasks
+- readme files for code, shiny app etc on the github App
+- restart reproduction for United Welfare paper
+
+### Completed Tasks
+- review of readme files on OPA deworming 
+
+### Continuing tasks
+- assessment stage of the reproduction in socialsciencereproduction.org
+
+
 ## Week 2 (2/1)
 ### Assigned Tasks
 - final review for OPA deworming
